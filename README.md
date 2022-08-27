@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+
+A clone of one of the most popular streaming site Youtube.
+Build using React Js
+Material UI for styling
+All the data is being fetched from third party API Youtube v3 from RapidAPI
+Tried to make it as close as possible , but apparently , we can work only with the data and statistics provided with API.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
